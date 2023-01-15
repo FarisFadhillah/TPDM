@@ -1,0 +1,2 @@
+,Classifieer,prediction,accuracy
+0,SVM,"SVC(decision_function_shape='ovo', kernel='linear')",0.7056451612903226
